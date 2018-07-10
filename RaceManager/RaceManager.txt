@@ -1,0 +1,1 @@
+./Debug/src_mgrMain.c.o ./Debug/src_mgrTests.c.o ./Debug/src_mgrMenu.c.o   

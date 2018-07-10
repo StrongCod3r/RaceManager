@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCRaceManager" Database="">
+  <Project Name="RaceManager" Path="RaceManager/RaceManager.project" Active="No"/>
+  <Project Name="RaceMgrLib" Path="RaceMgrLib/RaceMgrLib.project" Active="No"/>
+  <Project Name="TestLib" Path="TestLib/TestLib.project" Active="No"/>
+  <Project Name="RaceViewer" Path="RaceViewer/RaceViewer.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="RaceManager" ConfigName="Debug"/>
+      <Project Name="RaceMgrLib" ConfigName="Debug"/>
+      <Project Name="TestLib" ConfigName="Debug"/>
+      <Project Name="RaceViewer" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Project Name="RaceManager" ConfigName="Release"/>
+      <Project Name="RaceMgrLib" ConfigName="Release"/>
+      <Project Name="TestLib" ConfigName="Release"/>
+      <Project Name="RaceViewer" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Test" Selected="no">
+      <Project Name="RaceManager" ConfigName="Test"/>
+      <Project Name="RaceMgrLib" ConfigName="Test"/>
+      <Project Name="RaceViewer" ConfigName="Test"/>
+      <Project Name="TestLib" ConfigName="Test"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

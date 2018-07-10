@@ -1,0 +1,9 @@
+Marathon of Barcelona;Ricardo;Ricardo;Catalan;39;12345678A
+Marathon of Barcelona;Joan;Joan;Catalan;36;12345678B
+Marathon of Barcelona;Carlos;Carlos;Catalan;36;12345678C
+Marathon of Barcelona;Jose;Jose;Catalan;36;12345678D
+Marathon of Barcelona;Maria;Maria;Catalan;36;12345678E
+Marathon of Barcelona;Dario;Dario;Catalan;36;12345678F
+Marathon of Barcelona;Miguel;Miguel;Catalan;36;12345678G
+Marathon of Barcelona;Vicente;Vicente;Catalan;19;12345678H
+Cursa dels bombers de Lleida;Elvis;Elvis;Catalan;39;12345678R

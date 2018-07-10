@@ -1,0 +1,8 @@
+Marathon of Barcelona;12345678A;5;5;5
+Marathon of Barcelona;12345678B;4;4;4
+Marathon of Barcelona;12345678C;3;3;3
+Marathon of Barcelona;12345678D;2;2;2
+Marathon of Barcelona;12345678E;1;1;1
+Marathon of Barcelona;12345678F;0;0;0
+Marathon of Barcelona;12345678G;6;6;6
+Marathon of Barcelona;12345678H;7;7;7
